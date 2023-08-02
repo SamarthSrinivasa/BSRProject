@@ -26,3 +26,10 @@ Analysis and Comparison: Analyze the results and compare the performance of diff
 \
 Documentation: Prepare a detailed report and presentation summarizing the project's findings and contributions to the spatial regionalization research community.
 
+
+
+
+## Data explained
+
+
+
